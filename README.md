@@ -65,7 +65,4 @@ To exit the program, enter `9`
 ## Contributing
 We welcome contributions! Please fork the repository and submit a pull request.
 
-## Contact
-For any questions or feedback, please contact [yanis.nicolau@gmail.com].
-
 Thank you for using the Todo List Program!
